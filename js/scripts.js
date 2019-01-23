@@ -1,6 +1,7 @@
 $(document).ready(function() {
   suits.forEach(function(sweet){
     values.forEach(function(value){
+      // $(deck).append("<li>" + value + " of " + sweet);
       cards.push(" " + value + " of " + sweet );
       $("." + sweet).text(filterItems(sweet));
     });
