@@ -1,0 +1,22 @@
+h1 {
+  text-align: center;
+}
+body{
+  background-image: linear-gradient(to bottom right,rgba(0, 0, 255, 0.5), rgba(0, 255, 0, .55));
+  background-size: cover;
+  background-repeat: no-repeat;
+}
+#header{
+  color:rgba(0, 0, 255, 0.5);
+  background-image: linear-gradient(to bottom right,rgba(0, 255, 0, 0.5), rgba(0, 0, 255, 0.5));
+}
+#underline{
+font-weight:400;
+  color: rgba(255, 0, 0, 0.7);
+  font-family: monospace;
+}
+#long-break{
+  display:block;
+  content:"";
+  margin-top: 20em;
+}
