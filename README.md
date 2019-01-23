@@ -1,2 +1,2 @@
 # DeckCardsImproved
-Cut all fat
+Sexy n' Sleek
